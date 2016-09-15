@@ -1,0 +1,16 @@
+
+main.exe
+
+*.exe
+
+main.o
+
+passmaster.depend
+
+passmaster.layout
+
+passmaster.cbp
+
+bin/Debug/passmaster
+
+.DS_Store
